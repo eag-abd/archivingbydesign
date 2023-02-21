@@ -1,5 +1,14 @@
 # Archiving by Design
+
 This Github repository is made for sharing and working on documentation on Archiving by design.
+
+## Documents
+
+We will share documents like white papers, guidelines etc. here once they are approved for sharing.
+
+## Presentations
+
+- [Presentation from the Tallinn meeting, October 2021](/presentations/AdB_Tallinn%20Meeting_oct2021.pptx.pdf)
 
 ## Who owns this?
 
