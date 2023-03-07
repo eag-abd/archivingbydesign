@@ -4,7 +4,7 @@ This Github repository is made for sharing and working on documentation on Archi
 
 ## Documents
 
-We will share documents like white papers, guidelines etc. here once they are approved for sharing.
+We will share documents like white papers, guidelines etc. here once they have been approved for sharing.
 
 ## Presentations
 
