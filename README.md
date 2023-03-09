@@ -1,6 +1,8 @@
 # Archiving by Design
 
-This Github repository is made for sharing and working on documentation on Archiving by design.
+Archiving by design can be defined as the measures taken during the design or adjustment of information systems to ensure that the information created or handled by the system becomes, and stays, sustainably accessible. The information is sustainable accessible if it is findable, available, readable, interpretable, reliable and future proof. There is not one only way to apply archiving by design, but different methodologies can be used for this purpose. 
+
+This Github repository for Archiving by design is a space made for sharing and working on documentation on the Archiving by design approach and the ways of implementation.
 
 ## Documents
 
