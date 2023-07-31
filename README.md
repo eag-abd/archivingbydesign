@@ -4,20 +4,11 @@ Archiving by design can be defined as the measures taken during the design or ad
 
 This Github repository for Archiving by design is a space made for sharing and working on documentation on the Archiving by design approach and the ways of implementation.
 
-## Documents
+## Documents and presentations
 
-### Shared with EAG
+There is an approved [whitepaper on Archiving by design](Whitepaper%20AbD_en.pdf) that outlines what challenge Archiving by design is trying to solve, and what our solution is.
 
-> **Note:** These documents are drafts that have been shared with The European Archives Group, not (yet) approved policy documents. They are available in the form they were shared.
-
-- [Report: Archiving by design – what it is and how it can be used](/shared-with-eag/Archiving%20by%20design%20report%20EAG%20-%20june%202021.pdf) - a discussion paper presented to the EAG meeting, June 2021
-- [White paper: Archiving by design](/shared-with-eag/Whitepaper%20AbD%20-%20nov%202022.pdf) - document prepared for the EAG meeting, November 2022
-- [Guideline: Using the archiving by design scan](/shared-with-eag/Guideline%20on%20AbD%20scan%20methodology%20-%20nov%202022.pdf) - shared with the EAG, November 2022
-
-## Presentations
-
-- [Presentation from webinar, April 2023](/presentations/AbD_Infomeeting12apr2023.pdf)
-- [Presentation from the Tallinn meeting, October 2021](/presentations/AdB_Tallinn%20Meeting_oct2021.pptx.pdf)
+Further information can be found in [drafts shared with the EAG](/shared-with-eag/) and in [presentations we have held](/presentations/).
 
 ## Who owns this?
 
