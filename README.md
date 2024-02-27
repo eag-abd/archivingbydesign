@@ -8,6 +8,8 @@ This Github repository for Archiving by design is a space made for sharing and w
 
 There is an approved [whitepaper on Archiving by design](Whitepaper%20AbD_en.pdf) that outlines what challenge Archiving by design is trying to solve, and what our solution is.
 
+> :new: We are currently revising a [guideline on the Archiving by Design Scan method](/shared-with-eag/Guideline%20on%20AbD%20scan%20methodology%20-%20nov%202022.pdf). If you have comments or questions, do not hesitate to [post them as an issue](https://github.com/eag-abd/archivingbydesign/issues/new).
+
 Further information can be found in [drafts shared with the EAG](/shared-with-eag/) and in [presentations we have held](/presentations/).
 
 ## Who owns this?
