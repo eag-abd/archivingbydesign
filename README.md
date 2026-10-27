@@ -18,6 +18,7 @@ Further information can be found in [drafts shared with the EAG](/shared-with-ea
 ## Who owns this?
 
 Originally created by the EAG, to allow the subgroup to share information with a wider audience, this repository is now owned and maintained by AbD subforum of the [DLM Forum](https://www.dlmforum.eu/).
+Final products are published on the website of [Archives Portal Europe (APE)](https://www.archivesportaleurope.net/tools/archiving-by-design/).
 
 ### The Archiving by Design subgroup/subforum
 
