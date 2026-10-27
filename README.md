@@ -7,21 +7,26 @@ This Github repository for Archiving by design is a space made for sharing and w
 ## Documents and presentations
 
 There is an approved [whitepaper on Archiving by design](Whitepaper%20AbD_en.pdf) that outlines what challenge Archiving by design is trying to solve, and what our solution is.
+Also, there is an AbD Glossary, explaining terms used in AbD documentation.
 
-> **Note**: We are currently revising a [guideline on the Archiving by Design Scan method](/shared-with-eag/Guideline%20on%20AbD%20scan%20methodology%20-%20nov%202022.pdf). If you have comments or questions, do not hesitate to [post them as an issue](https://github.com/eag-abd/archivingbydesign/issues/new).
+The EAG approved the AbD scan methodology during its meeting in Warsaw in April, 2025. The AbD requirements were approved during its meeting in Copenhagen in October, 2025
+
+If you have comments or questions about the documents, do not hesitate to [post them as an issue](https://github.com/eag-abd/archivingbydesign/issues/new).
 
 Further information can be found in [drafts shared with the EAG](/shared-with-eag/) and in [presentations we have held](/presentations/).
 
 ## Who owns this?
 
-This repository is owned and maintained by [The European Archives Group](https://commission.europa.eu/about-european-commission/service-standards-and-principles/transparency/access-documents/information-and-document-management/archival-policy/european-archives-group_en) (in short, EAG), which is an official European Commission expert group that was established at the beginning of 2006. It is composed of representatives from national archives in EU member countries.
+Originally created by the EAG, to allow the subgroup to share information with a wider audience, this repository is now owned and maintained by AbD subforum of the [DLM Forum](https://www.dlmforum.eu/). [The European Archives Group](https://commission.europa.eu/about-european-commission/service-standards-and-principles/transparency/access-documents/information-and-document-management/archival-policy/european-archives-group_en) (in short, EAG), which is an official European Commission expert group that was established at the beginning of 2006. It is composed of representatives from national archives in EU member countries.
 
-### The Archiving by Design subgroup
+### The Archiving by Design subgroup/subforum
 
-The EAG meeting in Helsinki, Finland in September 2019 decided to establish a subgroup for developing Archiving by Design. The subgroup was tasked with addressing a common challenge for European countries - to handle digital born data to ensure that data persists with availability and authenticity over time. The subgroup has developed a white paper and guidelines to elaborate and explore the possibilities of "Archiving by design" (in short, “AbD”) and its relation to information systems, record capture, and submission to the archives. Going forward the subgroup intends to perform pilot studies in several national environments in cooperation with national agencies testing the ideas and requirements. Combining pilots with a theoretical framework can lead to practical methods for working with Archiving by design on a European level, in compliance to a diversity of regulations on a national level.
+The EAG meeting in Helsinki, Finland in September 2019 decided to establish a subgroup for developing Archiving by Design. The subgroup was tasked with addressing a common challenge for European countries - to handle digital born data to ensure that data persists with availability and authenticity over time. The subgroup has developed a white paper and guidelines to elaborate and explore the possibilities of "Archiving by design" (in short, “AbD”) and its relation to information systems, record capture, and submission to the archives. The subgroup presented its final conclusions to the EAG during its meeting in Cyprus in May 2026. 
+
+Since then, it continued its activities as a subforum of the DLM Forum (https://www.dlmforum.eu/), which is intended as a network used to build and share knowledge, experience and best practices related to AbD. 
 
 ## Contributing
 
-If there's something you want to ask us or discuss with us, please see if it fits within an existing issue. If not, please post it as a new issue. If you want to contribute to the documents (coming soon) in this area, pull requests are welcome.
+If there's something you want to ask us or discuss with us, please see if it fits within an existing issue. If not, please post it as a new issue.
 
 > **Note**: The group isn't staffed to handle your comments immediately, but we will see them and respond. Thank you for your patience.
