@@ -17,7 +17,7 @@ Further information can be found in [drafts shared with the EAG](/shared-with-ea
 
 ## Who owns this?
 
-Originally created by the EAG, to allow the subgroup to share information with a wider audience, this repository is now owned and maintained by AbD subforum of the [DLM Forum](https://www.dlmforum.eu/). [The European Archives Group](https://commission.europa.eu/about-european-commission/service-standards-and-principles/transparency/access-documents/information-and-document-management/archival-policy/european-archives-group_en) (in short, EAG), which is an official European Commission expert group that was established at the beginning of 2006. It is composed of representatives from national archives in EU member countries.
+Originally created by the EAG, to allow the subgroup to share information with a wider audience, this repository is now owned and maintained by AbD subforum of the [DLM Forum](https://www.dlmforum.eu/).
 
 ### The Archiving by Design subgroup/subforum
 
